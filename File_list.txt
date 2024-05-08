@@ -1,0 +1,7 @@
+01_basic_commands.sh
+02_arrays.sh
+03_strings_and_user_input.sh
+04_arithmetic_operations.sh
+05_Conditionals.sh
+06_Loops.sh
+File_list.txt
